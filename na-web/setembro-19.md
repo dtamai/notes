@@ -2,7 +2,7 @@
 
 ## [30 years, 30 lessons in Leadership](https://medium.com/@dangreene_37926/30-years-30-lessons-in-leadership-ec7e1ace00c7)
 
-_Medium, gratuito_
+_23/09/2019 - Medium, gratuito_
 
 Artigo com uma lista, fácil de ler, fácil de citar, mas os items não são fáceis de se alcançar, muitos deles são coisas pra se fazer todos os dias. Alguns itens:
 
@@ -27,4 +27,12 @@ Artigo com uma lista, fácil de ler, fácil de citar, mas os items não são fá
 Tem dois pontos que mostram a ambiguidade da liderança: às vezes é ok se comprometer com uma solução parcial e às vezes tem que lutar pela solução completa; e liderar usando dados, não apenas a intuição, mas também não se paralizar esperando dados, use o que tem.
 
 Isso me lembra um artigo sobre como o [Obama tomava decisões na presidência](https://www.inc.com/jessica-stillman/president-obama-just-shared-his-simple-3-part-framework-for-making-even-toughest-decisions.html). Se você estiver fazendo seu trabalho de liderança direito apenas as decisões que seu time não consegue/não tem autoridade para tomar vão chegar até você, elas nunca serão fáceis, nunca terão todas as informações necessárias para uma decisão perfeita, porque alguém já teria tomado uma decisão; não haverá certezas, mas probabilidades, aceite que você precisa de informção de pessoas mais inteligentes que você, e que você provavelmente não vai entender o que elas falam, peça esclarecimentos. Nesse momento vai ajudar o investimento em deixar o time seguro pra falar.
+
+## [Technical Interview Fixes - April Wensel](https://testandcode.com/72)
+
+_24/09/2019 - Podcast, 37min_
+
+Melhor ideia é: deixar o candidato mostrar suas forças ao invés de procurar suas fraquezas. Também tem fazer a canddata sair a entrevista se sentindo bem sobre ela mesma, colaborar durante a entrevista ao invés de conflitar, buscar que o candidato pode adicionar na cultura ao invés do quanto se encaixa na atual.
+
+Mudança grande de pensamento!
 
