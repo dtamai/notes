@@ -32,7 +32,7 @@ Isso me lembra um artigo sobre como o [Obama tomava decisões na presidência](h
 
 _24/09/2019 - Podcast, 37min_
 
-Melhor ideia é: deixar o candidato mostrar suas forças ao invés de procurar suas fraquezas. Também tem fazer a canddata sair a entrevista se sentindo bem sobre ela mesma, colaborar durante a entrevista ao invés de conflitar, buscar que o candidato pode adicionar na cultura ao invés do quanto se encaixa na atual.
+Melhor ideia é: deixar o candidato mostrar suas forças ao invés de procurar suas fraquezas. Também tem fazer a candidata sair a entrevista se sentindo bem sobre ela mesma, colaborar durante a entrevista ao invés de conflitar, buscar que o candidato pode adicionar na cultura ao invés do quanto se encaixa na atual.
 
 Mudança grande de pensamento!
 
