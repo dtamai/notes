@@ -36,3 +36,13 @@ Melhor ideia é: deixar o candidato mostrar suas forças ao invés de procurar s
 
 Mudança grande de pensamento!
 
+## [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
+
+_30/09/2019 - Phillip Rogaway, PDF, 48 páginas_
+
+Sobre implicações do estudo da criptografia, é um texto longo, com muitas referências a outros trabalhos. O autor vê uma oportunidade para a comunidade se engajar mais nas aplicações práticas da criptografia, não apenas a parte matemática, porque há aplicações práticas da criptografia que não são servidas pela academia, uma sugestão é que a comunidade use as ferramentas atuais de criptografia, e assim existam pesquisas com resultados de uso imediato. Faz sentido a criptografia pura, mas também faz sentido a aplicada.
+
+Querendo ou não a criptografia tem uma implicação política muito grande, então qualquer ação, ou falta dela, tem algum significado.
+
+Acho que esse tipo de reflexão vale pra vários outras áreas do conhecimento, especialmente desenvolvimento de software hoje em dia, porque software intermedia muito das nossas vidas.
+
