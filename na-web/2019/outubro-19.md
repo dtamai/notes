@@ -1,5 +1,13 @@
 # Outubro/19
 
+## [How Rust Makes Error Handling Part of the Language](http://patshaughnessy.net/2019/10/3/how-rust-makes-error-handling-part-of-the-language)
+
+_06/10/2019 - Pat Shaughnessy_
+
+Depois de um tempo estudando Rust e incorporando sua linguagem de tratamento de erros eu percebi que tratar erros faz parte de qualquer software, e que não ter o vocabulário para falar disso limitava minha consideração sobre o assunto.
+
+Em Ruby não há uma forma dominante de tratar erros, e em geral os erros são ou ignorados ou presentes em alguns casos críticos. Mas tendo o vocabulário que adquiri com Rust comecei a identificar várias situações que erros podem acontecer e ficar desconfortável em não lidar com eles. [dry-monads](https://dry-rb.org/gems/dry-monads/master/) tem sido minha gem favorita pra colocar Result types em Ruby.
+
 ## [17 Reasons NOT To Be A Manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/)
 
 _10/10/2019 - Charity Majors_
