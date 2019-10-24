@@ -32,3 +32,39 @@ Os cinco erros listados são: reagendar, fazer o 1:1 ser status report, não se 
 
 Esse último erro é o detalhe que passa por boa intenção mas na realidade é deixar de fazer o próprio trabalho.
 
+## [Nobody Ever Gets Credit for Fixing Problems that Never Happened](http://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
+
+_20/10/2019 - Nelson P. Repenning, John D. Sterman, paper 25 páginas, 2001_
+
+Para lidar com problemas de produtividade as empresas adotam dois caminhos: trabalho duro ou trabalho inteligente.
+
+A necessidade de melhorar performance acaba levando à adoção de programas de melhorias, que é uma tentativa de trabalho inteligente. Mas como há um atraso entre adoção e resultado, essas iniciativas são consideradas como falhas e eventualmente substiuídas por outras com a mesma ideia mas um nome diferente. Ou então mudam para controle total e exigências maiores sobre os funcionários.
+
+O diferencial da gestão não é mais identificar oportunidades de melhoria e conhecer soluções, mas implementar essas soluções com sucesso.
+
+![O diagrama completo do sistema de feebacks, com o loop do atalho em destaque.](../../.gitbook/assets/repennin_loop.png)
+
+Os ciclos de feedback de um sistema produtivo:
+
+* **trabalho duro \(B1\)**: baixa performance leva à pressão para trabalhar mais, que leva à mais horas trabalhadas, que aumenta a produção. Tempo para feedback é curto, há limite do quanto se pode trabalhar mais, os ganhos param quando param as horas extra.
+* **trabalho inteligente \(B2\)**: baixa performance leva à pressão para melhoria dos processos, que leva à mais tempo investido em melhorias. Imediatamente há uma queda de produção porque parte do tempo de trabalho é usado em investimentos. Há um atraso até o investimento se converter em aumento de produtivdidade, mas seu efeito é permanente.
+* **atalhos \(B3\)**: um atalho aconetce quando o trabalho duro desia tempo em investimento para tempo em produção. Isso forma um ciclo vicioso que elimina os efeitos do trabalho inteligente. Essa é a armadilha da capacitação.
+
+_Fundamental attribution error_
+
+Processo ruim leva à produção baixa. Pressão da gestão leva à horas extras qu traz algum aumento de produção. A gestão passa a crer que o problema são os funcionários, não o processo.
+
+_Superstitious learning_
+
+Pressao da gestão paraaumetnar tempo produtivo dos funcionários, estes aceitam a pressão e otimizam ao máximo a rotina e conseguem 30%, por exemplo, da meta de melhoria, para alcançar os outros 70% cortam tempo de investimento, ou sejam, pegam o atalho.
+
+A gestão, inconsciente da presença do atalho, acredita que a pressão para aumentar o tempo produtivo teve o efeito total, corrigindo a disciplina dos funcionários. Mas, além de não tere aprendido a real causa da baixa proutividade, ficou também o aprendizado falso que a culpa é dos funcionários e que a pressão funciona. A recente perda de investimento em processos vai garantir a queda futura de produção.
+
+Essa crença que produção baixa é falta de disciplina dos funcionários e o atraso entre melhorias no processo e resultado na produtividade contribuem bastante para a falha dos programas de melhoria. Durante a implantação das melhorias as metas de produção são mantidas, que leva a uma sobrecarga dos funcionários: adaptação ao novo sistema e manter a produção leva aos atalhos.
+
+Quando a gestão descobre a existência dos atalhos há confirmação que os funcionários não podem ser confiados, assim há mais pressão por disciplina. Do lado dos funcionários há o aprendizado que é melhor esconder os problemas até ter a solução.
+
+Assim começa uma cultura de apagar incêndios que recompansa herói que resolvem prolemas de última hora sobre aqueles que tentam evitá-los em primeiro lugar. "Ninguém leva crédito por corrigir problemas que nunca aconceteram." Uma cultura de curto prazo.
+
+Para alcançar sucesso nas iniciativas de melhoria e produtividade é necessária uma mudança de mentalidade: tirar o foco de culpados quando resolver um problema e simplesmente resolver o problema.
+
