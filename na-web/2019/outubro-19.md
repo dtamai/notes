@@ -68,3 +68,19 @@ Assim começa uma cultura de apagar incêndios que recompansa heróis que resolv
 
 Para alcançar sucesso nas iniciativas de melhoria e produtividade é necessária uma mudança de mentalidade: tirar o foco de culpados quando resolver um problema e simplesmente resolver o problema.
 
+## [Intro to Empirical Software Engineering: What We Know We Don't Know](https://www.youtube.com/watch?v=WELBnE33dpY)
+
+_21/10/2019 - Hillel Wayne, talk 37 min, GOTO 2019_
+
+O título diz tudo, na prática do desenvolvimento de software ainda não sabemos o que não sabemos. Muito do que se diz é só opinião sem base científica, há pouca certeza dos melhores jeitos de se fazer software e muito menos das causas disso.
+
+Ou seja, quase tudo de desenvolvimento é opinião ou anedota.
+
+## [Don't Think of a White Bear](https://www.happinesslab.fm/episodes/dont-think-of-a-white-bear)
+
+_23/10/2019 - Dr. Laurie Santos, podcast 42min, Happiness Lab_
+
+Pensar no que não fazer é um jeito dessa coisa acontecer. Falar dos traumas é um jeito de se livrar dessa dor.
+
+No final, um ensinamento do budismo, as duas flechas: a primeira causa dor, são as coisas ruins, não dá pra evitar pra sempre; a segunda é a reação à dor, essa dá pra controlar, é opcional.
+
