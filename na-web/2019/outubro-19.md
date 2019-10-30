@@ -38,7 +38,7 @@ _20/10/2019 - Nelson P. Repenning, John D. Sterman, paper 25 páginas, 2001_
 
 Para lidar com problemas de produtividade as empresas adotam dois caminhos: trabalho duro ou trabalho inteligente.
 
-A necessidade de melhorar performance acaba levando à adoção de programas de melhorias, que é uma tentativa de trabalho inteligente. Mas como há um atraso entre adoção e resultado, essas iniciativas são consideradas como falhas e eventualmente substiuídas por outras com a mesma ideia mas um nome diferente. Ou então mudam para controle total e exigências maiores sobre os funcionários.
+A necessidade de melhorar performance acaba levando à adoção de programas de melhorias, que é uma tentativa de trabalho inteligente. Mas como há um atraso entre adoção e resultado, essas iniciativas são consideradas como falhas e eventualmente substituídas por outras com a mesma ideia mas um nome diferente. Ou então mudam para controle total e exigências maiores sobre os funcionários.
 
 O diferencial da gestão não é mais identificar oportunidades de melhoria e conhecer soluções, mas implementar essas soluções com sucesso.
 
@@ -47,8 +47,8 @@ O diferencial da gestão não é mais identificar oportunidades de melhoria e co
 Os ciclos de feedback de um sistema produtivo:
 
 * **trabalho duro \(B1\)**: baixa performance leva à pressão para trabalhar mais, que leva à mais horas trabalhadas, que aumenta a produção. Tempo para feedback é curto, há limite do quanto se pode trabalhar mais, os ganhos param quando param as horas extra.
-* **trabalho inteligente \(B2\)**: baixa performance leva à pressão para melhoria dos processos, que leva à mais tempo investido em melhorias. Imediatamente há uma queda de produção porque parte do tempo de trabalho é usado em investimentos. Há um atraso até o investimento se converter em aumento de produtivdidade, mas seu efeito é permanente.
-* **atalhos \(B3\)**: um atalho aconetce quando o trabalho duro desvia tempo em investimento para tempo em produção. Isso forma um ciclo vicioso que elimina os efeitos do trabalho inteligente. Essa é a armadilha da capacitação.
+* **trabalho inteligente \(B2\)**: baixa performance leva à pressão para melhoria dos processos, que leva à mais tempo investido em melhorias. Imediatamente há uma queda de produção porque parte do tempo de trabalho é usado em investimentos. Há um atraso até o investimento se converter em aumento de produtividade, mas seu efeito é permanente.
+* **atalhos \(B3\)**: um atalho acontece quando o trabalho duro desvia tempo em investimento para tempo em produção. Isso forma um ciclo vicioso que elimina os efeitos do trabalho inteligente. Essa é a armadilha da capacitação.
 
 _Fundamental attribution error_
 
@@ -56,9 +56,9 @@ Processo ruim leva à produção baixa. Pressão da gestão leva à horas extras
 
 _Superstitious learning_
 
-Pressao da gestão para aumetnar tempo produtivo dos funcionários, estes aceitam a pressão e otimizam ao máximo a rotina e conseguem 30%, por exemplo, da meta de melhoria, para alcançar os outros 70% cortam tempo de investimento, ou sejam, pegam o atalho.
+Pressão da gestão para aumentar tempo produtivo dos funcionários, estes aceitam a pressão e otimizam ao máximo a rotina e conseguem 30%, por exemplo, da meta de melhoria, para alcançar os outros 70% cortam tempo de investimento, ou seja, pegam o atalho.
 
-A gestão, inconsciente da presença do atalho, acredita que a pressão para aumentar o tempo produtivo teve o efeito total, corrigindo a disciplina dos funcionários. Mas, além de não ter aprendido a real causa da baixa proutividade, ficou também o aprendizado falso que a culpa é dos funcionários e que a pressão funciona. A recente perda de investimento em processos vai garantir a queda futura de produção.
+A gestão, inconsciente da presença do atalho, acredita que a pressão para aumentar o tempo produtivo teve o efeito total, corrigindo a disciplina dos funcionários. Mas, além de não ter aprendido a real causa da baixa produtividade, ficou também o aprendizado falso que a culpa é dos funcionários e que a pressão funciona. A recente perda de investimento em processos vai garantir a queda futura de produção.
 
 Essa crença que produção baixa é falta de disciplina dos funcionários e o atraso entre melhorias no processo e resultado na produtividade contribuem bastante para a falha dos programas de melhoria. Durante a implantação das melhorias as metas de produção são mantidas, que leva a uma sobrecarga dos funcionários: adaptação ao novo sistema e manter a produção leva aos atalhos.
 
@@ -83,4 +83,10 @@ _23/10/2019 - Dr. Laurie Santos, podcast 42min, Happiness Lab_
 Pensar no que não fazer é um jeito dessa coisa acontecer. Falar dos traumas é um jeito de se livrar dessa dor.
 
 No final, um ensinamento do budismo, as duas flechas: a primeira causa dor, são as coisas ruins, não dá pra evitar pra sempre; a segunda é a reação à dor, essa dá pra controlar, é opcional.
+
+## [From Survival to Growth](https://giantrobots.fm/episodes/341)
+
+_24/10/2019 - Guest David Kaplan, podcast 37min, Giant Robots_
+
+Um lembrete que, mesmo sendo contratado pra posições de liderança, o entrevistado primeiro tenta entender como o time funciona, os porquês do time ser como é, antes de fazer mudanças, como ele mesmo diz: _go native_.
 
