@@ -90,3 +90,40 @@ _24/10/2019 - Guest David Kaplan, podcast 37min, Giant Robots_
 
 Um lembrete que, mesmo sendo contratado pra posições de liderança, o entrevistado primeiro tenta entender como o time funciona, os porquês do time ser como é, antes de fazer mudanças, como ele mesmo diz: _go native_.
 
+## [Improving the Culture of Critique: Communicating Across Disciplines](https://www.youtube.com/watch?v=Mvz8MqQfzUk)
+
+_28/10/2019 - Jeff Hesser, talk 1h, GDC 2017_
+
+A talk fala sobre fazer uma avaliação \(_critique_\), não apenas uma crítica \(_critizice_\) de um trabalho. A abordagem é mais voltada pra trabalhos de arte, mas achei que o método de avaliar muito bom pra qualquer coisa, incluindo pessoas.
+
+Parte 1: Conhecer o que vai ser avaliado
+
+* descrever objetivamente: listar o que é, o que aconteceu, etc.
+* descrever subjetivamente: listar o que faz sentir, o que fez sentir, etc.
+
+Parte 2: avaliar
+
+* qual objetivo do trabalho, qual papel de quem está sendo avaliado
+* qual intenção de quem fez o trabalho, qual intenção das ações
+* como que o trabalho/pessoa atinge seu objetivo/papel ou como falha em fazê-lo
+
+## [Circulatory](http://blog.cleancoder.com/uncle-bob/2019/10/31/Circulatory.html)
+
+_31/10/2019 - Uncle Bob, Clean Coder_
+
+Outro artigo do Uncle Bob sobre profissionalismo no desenvolvimento de software. Um trecho que dá pra polemizar facilmente:
+
+> It is things like this that make me proud to be a programmer. Without us, our civilization could not survive, and the warm connections between relatives and friends could not be made.
+
+E eu vejo que interpretar isso como arrogância do Uncle Bob é arrogância de quem interpreta, não está escrito que software é a única coisa que faz o mundo funcionar, que quem desenvolve tem todo o controle sobre tudo, não está escrito em absolutos. Software virou uma das partes importantes da sociedade, como muitas outras são, isso, segundo o autor, justifica o chamado para cobrar profissionalismo.
+
+## [Heroes and Juniors: Increasing Engineering Team Velocity](https://medium.com/@bellmar/heroes-and-juniors-increasing-engineering-team-velocity-97ce6a59103e)
+
+_31/10/2019 - Marianne Bellotti, Medium gratuito_
+
+Geralmente empresas não tem trabalho suficiente para um time só de devs seniors, eventualmente o trabalho fica mais estruturado e então a dev fica subutilizada, que pode ser desperdício, ou uma fonte de desmotivação. Ou então o time não para de produzir coisas novas, além do necessário, apenas porque conseguem.
+
+Alguém senior fazendo trabalho de junior é ruim para essa pessoa porque não são trabalhos valorizados, não fazer esse trabalho é ruim pra empresa porque precisa ser feito.
+
+Ter alguém júnior no time é bom porque diminui a velocidade, e dependendo do ciclo em que uma empresa está, é isso que precisa acontecer. E dá novas atividades que são responsabilidades de seniors, como mentoria.
+
