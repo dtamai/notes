@@ -76,6 +76,14 @@ O título diz tudo, na prática do desenvolvimento de software ainda não sabemo
 
 Ou seja, quase tudo de desenvolvimento é opinião ou anedota.
 
+## [A Silver Lining](https://www.happinesslab.fm/episodes/a-silver-lining)
+
+_21/10/2019 - Dr. Laurie Santos, podcast 44min, Happiness Lab_
+
+Pesquisas observaram que a felicidade de ganhar bronze é maior que a de ganhar prata, e isso dura bastante tempo. Nem mesmo perder o outo pra alguém da própria equipe é bom, ou seja, ficar feliz por outra pessoa do seu time não é fácil.
+
+Abaixo do bronze é não ter prêmio, acima da prata é o ouro. Essa diferença com o que se compara cada prêmio muda a interpretação na nossa cabeça.
+
 ## [Don't Think of a White Bear](https://www.happinesslab.fm/episodes/dont-think-of-a-white-bear)
 
 _23/10/2019 - Dr. Laurie Santos, podcast 42min, Happiness Lab_
