@@ -58,5 +58,11 @@ Progresso é medido não através de documentos feitos para reportar progresso, 
 
 O guia foca bastante em usar terceiros para construção de software, mas product owner precisa ser obrigatoriamente do governo. Assim desenvolvimento nesse contexto é um serviço, não parte do time de produto, que pra eleva bastante a qualidade profissional esperada, produto tem que comunicar bem as necessidades dos usuários, desenvolvimento precisa entender e propor soluções rápidas e eficientes, além de produzir software que passa por uma avaliação de qualidade a cada iteração. O processo é otimizado pra qualquer prestador de serviço poder continuar o trabalho.
 
+## [Knowledge Debt](https://amir.rachum.com/blog/2016/09/15/knowledge-debt/)
 
+03/11/2019 - Amir Rachum
+
+Saber quando pegar e quando pagar dívidas é algo que se aprende com o tempo.
+
+Amir Rachum fala de dívidas de conhecimento, usar antes de entender como funciona. Não podemos aprender tudo sobre tudo que fazemos, precisamos ser seletivos no que nos aprofundar. Não é fácil, mas é essencial.
 
