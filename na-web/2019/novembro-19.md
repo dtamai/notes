@@ -66,3 +66,31 @@ Saber quando pegar e quando pagar dívidas é algo que se aprende com o tempo.
 
 Amir Rachum fala de dívidas de conhecimento, usar antes de entender como funciona. Não podemos aprender tudo sobre tudo que fazemos, precisamos ser seletivos no que nos aprofundar. Não é fácil, mas é essencial.
 
+## [How to Seduce Someone on a Date](https://www.youtube.com/watch?v=v9OdeEzon_0)
+
+_03/11/2019 - The School of Life, vídeo 5min, YouTube_
+
+O conteúdo da School of Life em geral considera amor como um relacionamento entre duas pessoas sem a visão romântica apaixonada.
+
+Lidar com a própria fraqueza de maneira forte. Mostrar a fraqueza não é a mesma coisa que estar nervoso. Mostrar bom relacionamento com o próprio lado sombrio.
+
+É estranho ser adorado, porque por dentro sabemos que não mercemos tanto. Reconhecer a outra pessoa como imperfeita e aprecia-la por isso, ao invés de adotar a visão errônea que ela é perfeita.
+
+Não queremos adoração, mas que nos conheçam, e ainda assim gostem de nós e nos perdoem as falhas.
+
+Auto-conhecimento e generosidade que fazem relacionamentos toleráveis.
+
+## [Seven Questions to Restart Love](https://www.youtube.com/watch?v=DI9UK9r7CQY)
+
+_04/11/2019 - The School of Life, vídeo 8min, YouTube_
+
+As perguntas são boas, e novamente, não é exclusivamente amor romântico.
+
+1. Eu gostaria de ser apreciado por... - não jogar a culpa no outro, comunicar os próprios sentimentos. No começo é muito fácil ver o que há de bom na outra pessoa, mas com o tempo ficamos mimados
+2. Quando estou em pânico eu... - nos momentos de calma podemos ousar assumir nossas estranhezas quando sob pressão, montar nosso próprio manual
+3. Eu seria mais normal se ... não tivesse me acontecido na infância - conhecer o passado ajuda a entender melhor o presente, conhecer as dificuldades que ainda está lidando e talvez ainda não saiba como lidar
+4. Eu gostaria de ser perdoado por... - reconhecer que trouxemos dificuldades, não somos perfeitos. Vamos tentar fazer melhor
+5. Adoraria que você percebesse onde me machuca é... - as feridas se acumulam e não conseguimos nos expressar. O importante é ser ouvido e mostrar onde o outro machucou. Essa conversa não é para reavivar problemas, mas sim ajudar a resolvê-los
+6. O que me ajudaria a mudar é se você... - precisamos de ajuda pra mudar. Não é uma promessa, mas sim um esforço de reconhecer nossas falhas e melhorar
+7. O que eu sentiria muito sua falta é... - se não pudesse mais ver você, quando olhasse para trás o que mais sentiria falta?
+
