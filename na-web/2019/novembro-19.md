@@ -60,7 +60,7 @@ O guia foca bastante em usar terceiros para construção de software, mas produc
 
 ## [Knowledge Debt](https://amir.rachum.com/blog/2016/09/15/knowledge-debt/)
 
-03/11/2019 - Amir Rachum
+_03/11/2019 - Amir Rachum_
 
 Saber quando pegar e quando pagar dívidas é algo que se aprende com o tempo.
 
@@ -80,6 +80,12 @@ Não queremos adoração, mas que nos conheçam, e ainda assim gostem de nós e 
 
 Auto-conhecimento e generosidade que fazem relacionamentos toleráveis.
 
+## [My Most Embarrassing Mistakes as a Programmer \(so far\)](https://stackoverflow.blog/2019/10/29/my-most-embarrassing-mistakes-as-a-programmer-so-far/)
+
+_04/11/2019 - Ellen Spertus_
+
+Sobre erros, tem uma história sobre Thomas Watson da IBM, que recebeu a carta de demissão de um representante de vendas que perdeu um contrato milionário com o governo. Depois de explicar o que aconteceu e entregar a carta, o vendedor foi sair da sala quando Thomas Watson devolveu a carta dizendo que não pode aceitá-la porque, afinal, acabou de investir um milhão de dólares na educação do vendedor.
+
 ## [Seven Questions to Restart Love](https://www.youtube.com/watch?v=DI9UK9r7CQY)
 
 _04/11/2019 - The School of Life, vídeo 8min, YouTube_
@@ -93,4 +99,16 @@ As perguntas são boas, e novamente, não é exclusivamente amor romântico.
 5. Adoraria que você percebesse onde me machuca é... - as feridas se acumulam e não conseguimos nos expressar. O importante é ser ouvido e mostrar onde o outro machucou. Essa conversa não é para reavivar problemas, mas sim ajudar a resolvê-los
 6. O que me ajudaria a mudar é se você... - precisamos de ajuda pra mudar. Não é uma promessa, mas sim um esforço de reconhecer nossas falhas e melhorar
 7. O que eu sentiria muito sua falta é... - se não pudesse mais ver você, quando olhasse para trás o que mais sentiria falta?
+
+## [The Rust 2018 Module System](https://www.youtube.com/watch?v=AN9FoZgLcFg)
+
+_09/11/2019 - Josh Triplett, vídeo 33min, RustConf 2019_
+
+A parte técnica é sobre o sistema de módulos do Rust 2018, mas a parte mais interessante é o processo pra chegar nesse sistema. Foram alguns anos de discussão, várias propostas, e alguns aprendizados:
+
+* cuidados com soluções que só atendem os requisitos mas não agradam ninguém
+* levantar problemas cedo, pra evitar apego aos experimentos iniciais
+* refletir sobre quais valores guiam as discussões/decisões, inclusive os próprios valores
+* trabalhar para alcançar os valores de cada um
+* buscar soluções satisfatórias
 
