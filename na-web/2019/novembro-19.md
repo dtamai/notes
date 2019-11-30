@@ -112,3 +112,15 @@ A parte técnica é sobre o sistema de módulos do Rust 2018, mas a parte mais i
 * trabalhar para alcançar os valores de cada um
 * buscar soluções satisfatórias
 
+## [Making the Grade](https://www.happinesslab.fm/episodes/making-the-grade)
+
+_22/11/2019 - Dr. Laurie Santos, podcast 38 min, Happiness Lab_
+
+Notas são recompensas externas, e esse tipo de motivação é pior que motivação interna. Outro problema é que muitas das escalas são relativas, então duas avaliações suficientes tem notas diferentes por detalhes irrelevantes.
+
+## [The 2-Word Trick That Makes Small Talk Interesting](https://forge.medium.com/the-2-word-trick-that-makes-small-talk-interesting-fdd4d5aa693)
+
+_30/11/2019 - Dave Schools, Medium, pago_
+
+Tô curioso. Curiosidade genuina, sem querer provar um ponto, mudar a ideia de alguém, apenas saber.
+
