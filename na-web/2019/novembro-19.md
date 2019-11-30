@@ -118,6 +118,16 @@ _22/11/2019 - Dr. Laurie Santos, podcast 38 min, Happiness Lab_
 
 Notas são recompensas externas, e esse tipo de motivação é pior que motivação interna. Outro problema é que muitas das escalas são relativas, então duas avaliações suficientes tem notas diferentes por detalhes irrelevantes.
 
+## [The Efficiency-Destroying Magic of Tidying Up](https://florentcrivello.com/index.php/2019/09/04/the-efficiency-destroying-magic-of-tidying-up/)
+
+29/11/2019 - Florent Crivello
+
+Complexidade e caos não são a mesma coisa, querer colocar ordem em sistemas complexos não faz sentido. Massa, molho e queijo em potes separados não vira uma pizza.
+
+> Nunca coloque ordem em um sistema antes de entender a estrutuar por baixo do caos.
+>
+> Scott's Law \(Florent Crivello\)
+
 ## [The 2-Word Trick That Makes Small Talk Interesting](https://forge.medium.com/the-2-word-trick-that-makes-small-talk-interesting-fdd4d5aa693)
 
 _30/11/2019 - Dave Schools, Medium, pago_
