@@ -11,4 +11,5 @@
   * [Setembro/19](na-web/2019/setembro-19.md)
   * [Outubro/19](na-web/2019/outubro-19.md)
   * [Novembro/19](na-web/2019/novembro-19.md)
+  * [Dezembro/19](na-web/2019/dezembro-19.md)
 

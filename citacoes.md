@@ -6,3 +6,5 @@
 
 > _Do not read, as children do, to amuse yourself, or like the ambitious, for the purpose of instruction. No, read in order to live._  ― Gustave Flaubert
 
+> _“Be silent as to services you have rendered, but speak of favors you have received.”_  ― Epictetus
+
