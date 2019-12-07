@@ -43,3 +43,15 @@ Aternativas:
 * focar no que os sentidos captam no presente, pra tirar o foco do que está ruminando na cabeça
 * treinar identificar casos que a preocupação é desnecessária e fazer alguma coisa pra que isso realmente se concretize: "o que fazer pra que coisa ruim não aconteça novamente" ao invés de "que droga que coisa ruim aconteceu"
 
+## [Illusion of Transparency: Your Poker Face is Better Than You Think](https://fs.blog/2019/11/illusion-of-transparency/)
+
+_05/12/2019 - Farnam Street_
+
+A ilusão da transparência é a diferença entre nossa experiência interna e o que as outras pessoas percebem sobre isso.
+
+As pessoas prestam muitam menos atenção nas outras que acreditamos, quase ninguém vê a mancha na camisa, quase ninguém percebe nervosismo durante a apresentação.
+
+Por isso, pra que outras pessoas saibam seu estado interno, é preciso dizer claramente, mesmo para as pessoas que te conhecem bem.
+
+Uma vantagem de se conhecer esse viés é que dá pra se preocupar menos com o que outros vão achar.
+
