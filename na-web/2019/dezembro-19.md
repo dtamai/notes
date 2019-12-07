@@ -55,3 +55,13 @@ Por isso, pra que outras pessoas saibam seu estado interno, é preciso dizer cla
 
 Uma vantagem de se conhecer esse viés é que dá pra se preocupar menos com o que outros vão achar.
 
+## [Scaling and the Friction of Dimension](https://michaelfeathers.silvrback.com/scaling-and-the-friction-of-dimension)
+
+07/12/2019 - Michael Feathers
+
+A área de um sólido escala com o quadrado de uma medida linear e o volume escala com o cubo dessa medida. Com redes a escala é entre N e N², adicionar um nó pode adicionar uma nova aresta com todos os nós existentes! Aumentar um time grande é caro.
+
+Existe muita diferença entre algo com N pequeno e outro com N grande, considerando esses efeitos de escala não lineares. Algo que funciona pra um pode ser insuficiente pra outro, uma formiga não tem estrutura física pra ter o tamanho de um elefante.
+
+Outro lugar que aparece essa relação é com dependências de uma aplicação: quando já existe um certo número de dependêcias é conveniente adicionar mais uma ao invés de começar um novo grafo. Em outras palavras, é mais fácil crescer um sistema grande que criar um do zero apenas por causa de uma nova dependência.
+
