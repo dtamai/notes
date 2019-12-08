@@ -57,11 +57,34 @@ Uma vantagem de se conhecer esse viés é que dá pra se preocupar menos com o q
 
 ## [Scaling and the Friction of Dimension](https://michaelfeathers.silvrback.com/scaling-and-the-friction-of-dimension)
 
-07/12/2019 - Michael Feathers
+_07/12/2019 - Michael Feathers_
 
 A área de um sólido escala com o quadrado de uma medida linear e o volume escala com o cubo dessa medida. Com redes a escala é entre N e N², adicionar um nó pode adicionar uma nova aresta com todos os nós existentes! Aumentar um time grande é caro.
 
 Existe muita diferença entre algo com N pequeno e outro com N grande, considerando esses efeitos de escala não lineares. Algo que funciona pra um pode ser insuficiente pra outro, uma formiga não tem estrutura física pra ter o tamanho de um elefante.
 
 Outro lugar que aparece essa relação é com dependências de uma aplicação: quando já existe um certo número de dependêcias é conveniente adicionar mais uma ao invés de começar um novo grafo. Em outras palavras, é mais fácil crescer um sistema grande que criar um do zero apenas por causa de uma nova dependência.
+
+## [Symptoms of Groupthink](https://courses.washington.edu/psii101/Powerpoints/Symptoms%20of%20Groupthink.htm)
+
+_08/12/2019 - Jacob Leonesio, notas de um curso de Introdução à Psicologia, Universidade de Washington_
+
+Excesso de confiança no grupo:
+
+* ilusão de invulnerabilidade: nosso grupo é especial
+* crença na moralidade intrínseca do grupo: o que o grupo faz é o jeito certo de se fazer
+
+Visão limitada:
+
+* racionalização coletiva: se ninguém levantou o problema então não há problema
+* estereotipar pessoas de fora
+
+Pressão pra conformar com o grupo:
+
+* auto-censura: cautela ao contrariar o grupo
+* ilusão de unanimidade: silenciar discordância
+* pressão direta nos dissidentes
+* surgimento de guardiões das ideias: limitar propagação de ideias problemáticas dentro do grupo
+
+
 
