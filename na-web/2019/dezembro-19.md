@@ -86,5 +86,23 @@ Pressão pra conformar com o grupo:
 * pressão direta nos dissidentes
 * surgimento de guardiões das ideias: limitar propagação de ideias problemáticas dentro do grupo
 
+## [Escape from manual auto-testing with Hypotesis](https://www.youtube.com/watch?v=KcyGUVzL7HA&t=42s)
+
+_19/12/2019 - Zac Hatfield-Dodds, talk 33min, PyCon 2019_
+
+Nem tudo é teste unitário, outros tipos de teste:
+
+* diff test
+* mutation test
+* doc test
+* coverage test
+
+Estratégias de testes:
+
+* auto-manual: clássico, checa se a saída tem o valor especificado
+* oracle: algo externo diz se o resultado está certo
+* partial specification: não dá pra dizer qual valor esperado, mas dá pra restringir o valor esperado \(ser um número positivo, por exemplo\)
+* metamorphic testing: a forma como a saída se relaciona com a entrada não é conhecida, mas dada uma mudança na entrada, às vezes dá pra saber como a saída deveria mudar também. Por exemplo, adicionar mais termos numa busca deveria retornar menos resultados
+
 
 
