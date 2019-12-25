@@ -8,3 +8,5 @@
 
 > _“Be silent as to services you have rendered, but speak of favors you have received.”_  ― Epictetus
 
+> _Economics teaches you that making a choice means giving up something. — Russ Roberts_
+
